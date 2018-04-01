@@ -15,3 +15,6 @@ bmi - body mass index
 ped - diabetes pedigree function
 age - age in years
 type - 1 for yes and 0 for no for diabetic
+
+
+
