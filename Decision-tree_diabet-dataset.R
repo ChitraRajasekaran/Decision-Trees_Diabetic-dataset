@@ -1,4 +1,3 @@
-diabet<-read.csv(file = "/Users/chitrasekar2k5/R work/diabet.txt", head = TRUE, sep = "\t", stringsAsFactors = FALSE)
 #load the data into R
 head(diabet)
 
